@@ -4,7 +4,7 @@ import { useState} from 'react';
 function Home () {
     return (
         <div>
-            <div>Home Ricardo 2</div>
+            <h4>Home Teste do Next.Js e Deploy na Versel Ricardo 2</h4>
             <Contador />
         </div>
     )
